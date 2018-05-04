@@ -1,0 +1,2 @@
+#Arquivo será usado apenas caso o uso do banco de dados esteja desativado
+#Não recomendavél utilizar esse meio de guardar dados, por ser mais lenta a recuperação dos mesmos

@@ -1,0 +1,79 @@
+prefix: '&8[&7Craft&aX1&bPlus&8] '
+
+BscNaoValido: '&aO Bsc (&cBug Spawn Counter&a) não foi definido, ou está em um mundo inválido.'
+
+Menus:
+ Arenas: '&aEscolha a arena'
+ Confirmar: '&cX1 contra @Player2'
+ StatusArena: '&aStatus @Arena'
+ PlayerPerfil: '&bPerfil do @Player'
+ ArenasInfo: '&eLista de arenas'
+ PlayersOnline: '&aPlayers Cadastrados'
+ PlayerBattles: '&bLista de batalhas'
+ ConfirmarCompra: '&5Comprar Bau'
+
+Locations:
+ CamaroteError: '@Prefix&7Esta arena nao possui camarote!'
+
+Arenas:
+ ArenaCriada: '@Prefix&a@Arena &7Criada com sucesso!'
+ ArenaRemovida: '@Prefix&a@Arena &7deletada.'
+ ArenaJaExiste: '@Prefix&a@Arena &7Ja existe.'
+
+Player:
+ SalaDeEspera: '@Prefix&7Voce foi enviado para a sala de espera.'
+ X1Iniciou: '&cX1 iniciou, va a guerra!'
+ X1Recusado: '@Prefix&7Pedido de x1 recusado!'
+ X1SemVencedor: '@Prefix&7X1 de &a@Desafiado &7contra &a@Desafiador &7acabou sem vencedores.'
+ PlayerDeslogou: '&8[&aX1&8] &a@Loser &7Deslogou no meio do x1 e o vencedor foi &a@Winner'
+ PremioRecebido: 'Parabens! voce recebeu seu premio.'
+ ComandoDesativado: '&cComando &6@Comando &cbloqueado'
+ X1Aceito: '@Prefix&7Prepare-se, o x1 foi aceito e ja ira começar!'
+ Error1: '@Prefix&7Voce nao atingiu o valor minimo, ou ultrapassou o valor maximo de &a$@Max'
+ Error2: '@Prefix&7Pedido de x1 nao foi aceito.'
+ Error3: '@Prefix&7Voce nao pode desafiar a si mesmo.'
+ Error4: '@Prefix&7Voce tem um pedido de x1 pendente!'
+ Error5: '@Prefix&7X1 Encerrado pois um dos jogadores nao possuem o valor necessario.'
+ Error6: '@Prefix&a@Target &7nao te desafiou!'
+ Error7: '@Prefix&a@Target &7nao desafiou ninguem!'
+ Error8: '@Prefix&7Voce nao foi desafiado por ninguem!'
+ InfoError: '@Prefix&a@Player &7nao encontrado.'
+ SemInventario: '@Prefix&7Voce nao tem um inventario, portanto os itens dropados serao perdidos. Digite &c/x1 bau comprar &7para pegar os itens dropados pelos inimigos mortos.'
+ ItensParaInventario: '@Prefix&7Os itens dropados foram para seu inventario! &c/x1 bau'
+ InventarioCheio: '&cSeu inventario esta cheio!, novos itens serao perdidos.'
+ InimigoSemItens: '&cO jogador no qual você matou não possuia nenhum item em seu inventario.'
+
+Clan:
+ SemClan: '@Prefix&7Voce precisa ter um clan.'
+ NaoExiste: '@Prefix&a@Clan &7nao existe.'
+ PlayerAdcionado: '&6*&cPlayer &6@Player &cadcionado a party para x1.'
+ PlayerEntrou: '&cPlayer &6@Player &centrou.'
+ PlayerJaAdcionado: '&cVoce ja esta na party.'
+ PlayerRemovido: '&cPlayer Removido.'
+ PlayerSaiu: '&cPlayer &6@Player&c Saiu.'
+ PlayerNaoEstaNaParty: '&cEste player nao esta na party.'
+ PlayerOffline: '&cEste player nao esta online.'
+ PlayerRival: '&cVoce nao pode aceitar esta party sendo de um clan rival.'
+ PlayerNaoELider: '&cVoce nao e um lider para utilizar este comando.'
+ PartyCheia: '&cA party para o x1 ja esta cheia! @max'
+ SemPlayerSuficiente: '@Prefix&cUm dos clans nao possui a quantidade de membros suficiente; cancelando x1.'
+
+ProximaPagina: '&bProxima Pagina'
+PaginaAnterior: '&bPagina Anterior'
+
+ConfirmarX1: '&aConfirmar'
+ConfirmarX1-Lore: '&aConfirmar X1 Contra @Player'
+
+CancelarX1: '&cArregar'
+CancelarX1-Lore: '&cArregar X1 Contra @Player'
+
+PedidoX1:
+ - '&8[&aX1&8] &a@Player1 &7lhe convindou para um &aX1'
+ - '- &7Arena @Arena&7, modo &c@Modo'
+ - '- &7apostando &a$@Valor.'
+ - '- &7Voce tem &f@Tempo &7Minutos para aceitar o x1.'
+PedidoEnviado: '@Prefix&7Pedido de x1 enviado.'
+GanhouX1: '&8[&aX1&8] &a@Winner &7ganhou um &aX1 &7Contra &a@Loser &7e recebeu &a@Quantia'
+X1Aceito: '&8[&aX1&8] &a@Player2 &7aceitou o x1 contra &a@Player1 &7na arena @Arena&7 apostando &a@Valor. &7Digite &a/x1 camarote %ArenaNome &7para assistir ao x1.'
+
+Teleportado: '@Prefix&7Teleportado ao camarote!'

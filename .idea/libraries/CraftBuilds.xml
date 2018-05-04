@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="CraftBuilds">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/craftbukkit-1.8.3-R0.1-SNAPSHOT-latest.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/craftbukkit-1.8-R0.1-SNAPSHOT-b5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Multiverse-Core-2.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/SimpleClans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/craftbukkit-1.8.3-R0.1-SNAPSHOT-latest.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/craftbukkit-1.8-R0.1-SNAPSHOT-b5.jar!/" />
+    </SOURCES>
+  </library>
+</component>
